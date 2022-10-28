@@ -1,0 +1,25 @@
+.container {
+  padding-top: 15px;
+  margin: auto;
+}
+h1 {
+  color: rgb(20, 191, 243);
+}
+
+.card {
+  border-radius: 15px;
+  padding-bottom: 10px;
+}
+.heading {
+  font-size: 50px;
+
+} 
+.card-body {
+  background-color: rgba(255, 255, 255, 0.862);
+}
+.input-group-addon {
+  color: rgb(231, 39, 5);
+}
+hr {
+  background-color: rgb(12, 85, 241);
+}
